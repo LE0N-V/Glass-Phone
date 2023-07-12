@@ -1,7 +1,7 @@
 # Glass-Phone
 
 Qué vendemos?
-Nuestra oferta es de distintos modelos de celulares y o accesorios, de todo tipo de gama
+Nuestra oferta es de distintos modelos de celulares y accesorios, de todo tipo de gama
 Nuestro Objetivo:
 Nuestro equipo:
 Este proyecto está creado por los distintos compañeros que estamos cursando Full Stack Node A Distancia, los mismos son:
